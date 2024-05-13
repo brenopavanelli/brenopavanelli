@@ -1,7 +1,7 @@
 ### ⭐ Hello World, i'm Zayo (Breno Pavanelli) 
 Analysis and Development of Systems student / FATEC - Taquaritinga
 
-![Zayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayozin&show_icons=true&theme=tokyonight)
+![Zayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenopavanelli&show_icons=true&theme=tokyonight)
 
 ### 📧 Business contact: 
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:brenopavanelli@hotmail.com)
