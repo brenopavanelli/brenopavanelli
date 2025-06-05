@@ -1,6 +1,7 @@
 ### ⭐ Hello World, i'm Breno Pavanelli
-Estudante de Análise e Desenvolvimento de Sistemas | FATEC Taquaritinga - SP
-Servidor Público - Recursos Humanos | Prefeitura Municipal de Jaboticabal - SP
+<p><strong>Estudante de Análise</strong> e Desenvolvimento de Sistemas | FATEC Taquaritinga - SP</p>
+<p><strong>Servidor Público</strong> - Recursos Humanos | Prefeitura Municipal de Jaboticabal - SP</p>
+
 
 <!--![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenopavanelli&show_icons=true&theme=tokyonight)-->
 
