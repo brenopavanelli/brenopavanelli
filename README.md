@@ -1,4 +1,4 @@
-### ⭐ Hello World, i'm Breno Pavanelli
+### ⭐ Hello World, i'm Breno Pavanelli ⭐
 <p><strong>Estudante</strong> de Análise e Desenvolvimento de Sistemas | FATEC Taquaritinga - SP</p>
 <p><strong>Servidor Público</strong> - Recursos Humanos | Prefeitura Municipal de Jaboticabal - SP</p>
 
